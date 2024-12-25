@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FitsPreview": {
+      "commandName": "Project",
+      "commandLineArgs": "G:\\\\observations\\\\PAN2\\\\2021_09_11"
+    }
+  }
+}
